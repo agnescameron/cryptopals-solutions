@@ -111,7 +111,7 @@ void bytes_to_hex(string &encodedString){
 
 
 int main(){
-	string encodedString = "Burning 'em, if you ain't quick and nimble I go crazy when I hear a cymbal ";
+	string encodedString = "Burning 'em, if you ain't quick and nimble I go crazy when I hear a cymbal";
 	string keyString = "ICE";
 
 	ascii_to_binary(encodedString);
