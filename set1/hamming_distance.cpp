@@ -96,7 +96,7 @@ int main(){
 	ascii_to_binary(string2);
 	
 	int ham = hamming_dist(string1, string2);
-
+	
 	cout << "hamming dist is " << ham << endl;
 
 }
